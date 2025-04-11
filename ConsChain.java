@@ -18,7 +18,6 @@ public class ConsChain {
     }
 
     public static void main(String[] args) {
-        // Creating an object using the default constructor
         ConsChain obj = new ConsChain();
         System.out.println(obj);
     }
